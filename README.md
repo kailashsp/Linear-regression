@@ -1,2 +1,2 @@
 # Linear-regression
-performing linear regression with and wiithout sklearn
+Performing linear regression on insurance charges dataset with and without sklearn
